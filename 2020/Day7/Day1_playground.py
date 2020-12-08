@@ -69,25 +69,9 @@ def find_shiny_gold(bag, outer, inner):
 # print(inner)
 # data = get_input_data()
 outer, inner = get_rules()
-print(outer)
-print(inner)
-for bag in outer[0:3]:
-    print(bag)
-
-print(outer[0:2])
-print(outer[0])
-# print(find_shiny_gold(outer[0],outer[0:2], inner[0:2]))
-test = outer[267]
-print(outer.index(test))
-print("TEST")
-if test in checked_a:
-    print(checked_a.get(test))
-
-print("\n")
-print("\n")
-print(outer[0:2])
-print(outer[0])
-print(inner[0:2])
-print("TEST")
 print(outer[1])
 print(inner[1])
+print(inner[1][1][1])
+print(inner[1][0])
+# for bag in outer:
+#     print(bag)
