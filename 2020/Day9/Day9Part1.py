@@ -58,3 +58,36 @@ def batch(iterable, n=1):
 
 
 print(solve_a())
+
+
+nums = get_data()
+print(nums)
+nums.pop(0)
+print(nums)
+
+
+def solve_b():
+    init = solve_a()
+    nums = get_data()
+    ahead = nums.copy()
+    summed = []
+    total = 0
+
+    for n in nums:
+        total = n
+        summed.append(n)
+        ahead.pop(0)
+
+        i = 0
+        while total < init:
+            summed.append(ahead[i])
+            total += ahead[i]
+            i += 1
+
+        if total == init:
+            return max(summed) + min(summed)
+
+        total = 0
+        summed.clear()
+
+print(solve_b())
