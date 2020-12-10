@@ -5,7 +5,7 @@ import sys
 
 """
 checked_a = {"shiny gold":True, 'other':False}
-checked_b = {'other':0}
+checked_b = {'other': 0}
 
 
 def get_input_data():
@@ -54,7 +54,7 @@ def solve_a():
 def find_nr_of_bags(bag, outer, inner):
 
     if bag in checked_b:
-        return checked_a.get(bag)
+        return checked_b.get(bag)
 
     nr = 1
     i = outer.index(bag)
@@ -82,4 +82,11 @@ def find_shiny_gold(bag, outer, inner):
     checked_a[bag] = False
     return False
 
+def solve_b():
+    outer, inner = get_rules()
+    return find_nr_of_bags("shiny gold", outer, inner) - 1
+
 print(solve_a())
+print(solve_b())
+
+
