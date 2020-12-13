@@ -91,3 +91,12 @@ def eight_neighs_bounded(y, x, rmin, rmax, cmin, cmax):
 
 data = getData()
 print(solve(data))
+
+
+def solve_b():
+    data = getData()
+
+
+data = getData()
+for line in data:
+    print(line)
