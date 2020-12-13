@@ -2,24 +2,8 @@ import os
 import sys
 
 
-def direction(current_direction, angle):
-    if angle == 0:
-        return current_direction
-
-    if angle < 0:
-        return direction(current_direction, angle + 4)
-
-    if current_direction == (0, 1):
-        return direction((-1, 0), angle-1)
-    if current_direction == (-1, 0):
-        return direction((0, -1), angle-1)
-    if current_direction == (0, -1):
-        return direction((1, 0), angle-1)
-
-    return direction((0, 1), angle-1)
-
-
 def manhattan(a, b):
+    # Manhattan length
     return sum([abs(a[x]-b[x]) for x in range(len(a))])
 
 
