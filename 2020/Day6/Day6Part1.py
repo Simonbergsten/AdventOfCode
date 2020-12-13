@@ -2,7 +2,8 @@ import os
 import sys
 from _collections import  defaultdict
 from collections import Counter
-from typing import Callable, Iterable, Mapping
+from typing import Callable, Iterable
+from typing import Sequence, Mapping
 testdata = """\
 abc
 
@@ -91,3 +92,39 @@ for block in new_data.split("\n\n"):
             total_score += 1
 
 print(f"Total Score: {total_score}")
+
+### Much cleaner solution
+
+def solution_a(groups: Sequence[str]) -> int:
+    return sum(len(set(group.replace("\n", ""))) for group in groups)
+
+test = """\
+abc
+
+a
+b
+c
+
+ab
+ac
+
+a
+a
+a
+a
+
+b
+""".split("\n\n")
+
+assert solution_a(test) == 11
+
+def getData():
+    with open("Input_data_day6", "r") as f:
+        for line in f.readlines():
+            print(line.split("\n\n"))
+
+data = getData()
+
+
+
+print("Part 1: ", solution_a(getData()))
