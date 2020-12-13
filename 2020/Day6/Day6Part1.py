@@ -120,11 +120,14 @@ assert solution_a(test) == 11
 
 def getData():
     with open("Input_data_day6", "r") as f:
-        for line in f.readlines():
-            print(line.split("\n\n"))
+        return f.read().split("\n\n")
+
+
 
 data = getData()
 
 
 
-print("Part 1: ", solution_a(getData()))
+print("Part 1: ", solution_a(data))
+
+import aocd
