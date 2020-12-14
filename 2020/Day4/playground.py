@@ -54,3 +54,17 @@ while idx not in dict:
         idx += 1
 
 print(f"Accumulated sum: {accumulator}")
+
+
+
+
+
+
+
+
+
+
+
+value = 163_000
+new_value = int(str(value)[:-3])
+print(new_value)
