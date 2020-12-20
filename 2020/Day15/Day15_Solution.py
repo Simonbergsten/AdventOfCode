@@ -7,16 +7,16 @@ def getData():
 
     return [int(x) for x in lines[0].split(",")]
 
-def solution_a():
-    data = getData()
+
+def solve_a():
+    inp = getData()
     n = 0
     nums = {}
     last = 0
-    for i in range(len(data)):
+    for i in range(len(inp)):
         n += 1
-        nums[data[i]] = n
-        last = data[i]
-
+        nums[inp[i]] = [n]
+        last = inp[i]
 
     while n != 2020:
         n += 1
@@ -31,7 +31,7 @@ def solution_a():
 
         last = new
 
-
     return last
 
-print(solution_a())
+
+print(solve_a())

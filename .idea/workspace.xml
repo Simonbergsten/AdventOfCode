@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd00bdfe-2f85-4729-977e-a2df4d5fbcce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd00bdfe-2f85-4729-977e-a2df4d5fbcce" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +191,7 @@
       <updated>1607068107969</updated>
       <workItem from="1607068109141" duration="23481000" />
       <workItem from="1607362149441" duration="67108000" />
-      <workItem from="1607683482851" duration="40482000" />
+      <workItem from="1607683482851" duration="40818000" />
     </task>
     <servers />
   </component>
@@ -222,34 +220,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="176" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1608216691762" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1608489208406">
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom" timestamp="1608489441317">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1663" height="263" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1707.960@1920.0.1707.960" timestamp="1607467303435" />
     <state width="1493" height="263" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.960.1707@0.0.1536.864" timestamp="1607637761411" />
     <state width="917" height="263" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.960.1707@1920.0.960.1707" timestamp="1607639362051" />
-    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608489208406" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1608489208405">
+    <state width="1493" height="252" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1608489441317" />
+    <state width="1493" height="252" key="GridCell.Tab.0.center" timestamp="1608489441316">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1663" height="263" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1707.960@1920.0.1707.960" timestamp="1607467303435" />
     <state width="1493" height="263" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.960.1707@0.0.1536.864" timestamp="1607637761410" />
     <state width="917" height="263" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.960.1707@1920.0.960.1707" timestamp="1607639362050" />
-    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608489208405" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1608489208405">
+    <state width="1493" height="252" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1608489441316" />
+    <state width="1493" height="252" key="GridCell.Tab.0.left" timestamp="1608489441315">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1663" height="263" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1707.960@1920.0.1707.960" timestamp="1607467303435" />
     <state width="1493" height="263" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.960.1707@0.0.1536.864" timestamp="1607637761409" />
     <state width="917" height="263" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.960.1707@1920.0.960.1707" timestamp="1607639362050" />
-    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608489208405" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1608489208406">
+    <state width="1493" height="252" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1608489441315" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right" timestamp="1608489441316">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1663" height="263" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1707.960@1920.0.1707.960" timestamp="1607467303435" />
     <state width="1493" height="263" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.960.1707@0.0.1536.864" timestamp="1607637761410" />
     <state width="917" height="263" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.960.1707@1920.0.960.1707" timestamp="1607639362050" />
-    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608489208406" />
+    <state width="1493" height="252" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1608489441316" />
     <state width="1663" height="315" key="GridCell.Tab.1.bottom" timestamp="1607466799318">
       <screen x="1920" y="0" width="1707" height="960" />
     </state>
@@ -293,7 +291,7 @@
     <SUITE FILE_PATH="coverage/AdventOfCode$Day4Part1.coverage" NAME="Day4Part1 Coverage Results" MODIFIED="1607463413225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day4" />
     <SUITE FILE_PATH="coverage/AdventOfCode$Part1.coverage" NAME="Part1 Coverage Results" MODIFIED="1607639362042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day10" />
     <SUITE FILE_PATH="coverage/AdventOfCode$Day8Part2.coverage" NAME="Day8Part2 Coverage Results" MODIFIED="1607539339598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day8" />
-    <SUITE FILE_PATH="coverage/AdventOfCode$Day15_Solution.coverage" NAME="Day15_Solution Coverage Results" MODIFIED="1608489208392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day15" />
+    <SUITE FILE_PATH="coverage/AdventOfCode$Day15_Solution.coverage" NAME="Day15_Solution Coverage Results" MODIFIED="1608489441305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day15" />
     <SUITE FILE_PATH="coverage/AdventOfCode$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1607072812164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day1" />
     <SUITE FILE_PATH="coverage/AdventOfCode$Day3Part2.coverage" NAME="Day3Part2 Coverage Results" MODIFIED="1607126054489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day3" />
     <SUITE FILE_PATH="coverage/AdventOfCode$Day6Part1.coverage" NAME="Day6Part1 Coverage Results" MODIFIED="1607885358464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2020/Day6" />
